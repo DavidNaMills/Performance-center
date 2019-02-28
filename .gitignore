@@ -1,0 +1,11 @@
+server/.1.env
+server/node_modules
+server/package-lock.json
+
+nodeClient/node_modules
+nodeClient/package-lock.json
+
+userClient/node_modules
+userClient/public
+userClient/package-lock.json
+
